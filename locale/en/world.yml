@@ -1,0 +1,501 @@
+---
+en:
+  world:
+    ad:
+      demonym: Andorran
+    ae:
+      demonym: Emirati
+    af:
+      demonym: Afghan
+    ag:
+      demonym: Antiguan
+    ai:
+      demonym: Anguillan
+    al:
+      demonym: Albanian
+    am:
+      demonym: Armenian
+    ao:
+      demonym: Angolan
+    aq:
+      demonym: 
+    ar:
+      demonym: Argentine
+    as:
+      demonym: American Samoan
+    at:
+      demonym: Austrian
+    au:
+      demonym: Australian
+    aw:
+      demonym: Aruban
+    ax:
+      demonym: 
+    az:
+      demonym: Azerbaijani
+    ba:
+      demonym: Bosnian
+    bb:
+      demonym: Barbadian
+    bd:
+      demonym: Bangladeshi
+    be:
+      demonym: Belgian
+    bf:
+      demonym: Burkinabè
+    bg:
+      demonym: Bulgarian
+    bh:
+      demonym: Bahraini
+    bi:
+      demonym: Burundian
+    bj:
+      demonym: Beninese
+    bl:
+      demonym: 
+    bm:
+      demonym: Bermudian
+    bn:
+      demonym: 
+    bo:
+      demonym: 
+    bq:
+      demonym: 
+    br:
+      demonym: Brazilian
+    bs:
+      demonym: Bahamian
+    bt:
+      demonym: Bhutanese
+    bv:
+      demonym: 
+    bw:
+      demonym: Motswana
+    by:
+      demonym: Belarusian
+    bz:
+      demonym: Belizean
+    ca:
+      demonym: Canadian
+    cc:
+      demonym: Cocos Island
+    cd:
+      demonym: 
+    cf:
+      demonym: Central African
+    cg:
+      demonym: Congolese
+    ch:
+      demonym: Swiss
+    ci:
+      demonym: 
+    ck:
+      demonym: Cook Island
+    cl:
+      demonym: Chilean
+    cm:
+      demonym: Cameroonian
+    cn:
+      demonym: Chinese
+    co:
+      demonym: Colombian
+    cr:
+      demonym: Costa Rican
+    cu:
+      demonym: Cuban
+    cv:
+      demonym: Cape Verdean
+    cw:
+      demonym: 
+    cx:
+      demonym: Christmas Island
+    cy:
+      demonym: Cypriot
+    cz:
+      demonym: Czech
+    de:
+      demonym: German
+    dj:
+      demonym: Djiboutian
+    dk:
+      demonym: Danish
+    dm:
+      demonym: Dominican
+    do:
+      demonym: Dominican
+    dz:
+      demonym: Algerian
+    ec:
+      demonym: Ecuadorian
+    ee:
+      demonym: Estonian
+    eg:
+      demonym: Egyptian
+    eh:
+      demonym: Sahraw
+    er:
+      demonym: Eritrean
+    es:
+      demonym: Spanish
+    et:
+      demonym: Ethiopian
+    fi:
+      demonym: Finnish
+    fj:
+      demonym: Fijian
+    fk:
+      demonym: 
+    fm:
+      demonym: 
+    fo:
+      demonym: Faroese
+    fr:
+      demonym: French
+    ga:
+      demonym: Gabonese
+    gb:
+      demonym: British
+    gd:
+      demonym: Grenadian
+    ge:
+      demonym: Georgian
+    gf:
+      demonym: French Guianese
+    gg:
+      demonym: 
+    gh:
+      demonym: Ghanaian
+    gi:
+      demonym: Gibraltar
+    gl:
+      demonym: Greenlandic
+    gm:
+      demonym: Gambian
+    gn:
+      demonym: Equatorial Guinean
+    gp:
+      demonym: Guadeloupe
+    gq:
+      demonym: Equatorial Guinean
+    gr:
+      demonym: Greek
+    gs:
+      demonym: 
+    gt:
+      demonym: Guatemalan
+    gu:
+      demonym: Guamanian
+    gw:
+      demonym: 
+    gy:
+      demonym: Guyanese
+    hk:
+      demonym: Hong Kong
+    hm:
+      demonym: 
+    hn:
+      demonym: Honduran
+    hr:
+      demonym: Croatian
+    ht:
+      demonym: Haitian
+    hu:
+      demonym: Magyar
+    id:
+      demonym: Indonesian
+    ie:
+      demonym: Irish
+    il:
+      demonym: Israeli
+    im:
+      demonym: Manx
+    in:
+      demonym: Indian
+    io:
+      demonym: 
+    iq:
+      demonym: Iraqi
+    ir:
+      demonym: 
+    is:
+      demonym: Icelandic
+    it:
+      demonym: Italic
+    je:
+      demonym: 
+    jm:
+      demonym: Jamaican
+    jo:
+      demonym: Jordanian
+    jp:
+      demonym: Japanese
+    ke:
+      demonym: Kenyan
+    kg:
+      demonym: Kyrgyzstani
+    kh:
+      demonym: Cambodian
+    ki:
+      demonym: I-Kiribati
+    km:
+      demonym: Comorian
+    kn:
+      demonym: Kittitian
+    kp:
+      demonym: 
+    kr:
+      demonym: 
+    kw:
+      demonym: Kuwaiti
+    ky:
+      demonym: Caymanian
+    kz:
+      demonym: Kazakh
+    la:
+      demonym: 
+    lb:
+      demonym: Lebanese
+    lc:
+      demonym: St. Lucian
+    li:
+      demonym: Liechtenstein
+    lk:
+      demonym: Sri Lankan
+    lr:
+      demonym: Liberian
+    ls:
+      demonym: Basotho
+    lt:
+      demonym: Lithuanian
+    lu:
+      demonym: Luxembourg
+    lv:
+      demonym: Latvian
+    ly:
+      demonym: Libyan
+    ma:
+      demonym: Moroccan
+    mc:
+      demonym: Monégasque
+    md:
+      demonym: 
+    me:
+      demonym: Montenegrin
+    mf:
+      demonym: 
+    mg:
+      demonym: Malagasy
+    mh:
+      demonym: Marshallese
+    mk:
+      demonym: 
+    ml:
+      demonym: Malian
+    mm:
+      demonym: 
+    mn:
+      demonym: Mongolian
+    mo:
+      demonym: 
+    mp:
+      demonym: 
+    mq:
+      demonym: Martiniquais
+    mr:
+      demonym: Mauritanian
+    ms:
+      demonym: Montserratian
+    mt:
+      demonym: Maltese
+    mu:
+      demonym: Mauritian
+    mv:
+      demonym: Maldivian
+    mw:
+      demonym: Malawian
+    mx:
+      demonym: Mexican
+    my:
+      demonym: Malaysian
+    mz:
+      demonym: Mozambican
+    na:
+      demonym: Namibian
+    nc:
+      demonym: New Caledonian
+    ne:
+      demonym: Nigerien
+    nf:
+      demonym: 
+    ng:
+      demonym: Nigerian
+    ni:
+      demonym: Nicaraguan
+    nl:
+      demonym: Dutch
+    'no':
+      demonym: Norwegian
+    np:
+      demonym: Nepali
+    nr:
+      demonym: Nauruan
+    nu:
+      demonym: Niuean
+    nz:
+      demonym: New Zealand
+    om:
+      demonym: Omani
+    pa:
+      demonym: Panamanian
+    pe:
+      demonym: Peruvian
+    pf:
+      demonym: French Polynesian
+    pg:
+      demonym: Papua New Guinean
+    ph:
+      demonym: Philippine
+    pk:
+      demonym: Pakistani
+    pl:
+      demonym: Polish
+    pm:
+      demonym: 
+    pn:
+      demonym: Pitcairn Island
+    pr:
+      demonym: Puerto Rican
+    ps:
+      demonym: 
+    pt:
+      demonym: Portuguese
+    pw:
+      demonym: Palauan
+    py:
+      demonym: Paraguayan
+    qa:
+      demonym: Qatari
+    re:
+      demonym: Réunionese
+    ro:
+      demonym: Romanian
+    rs:
+      demonym: Serbian
+    ru:
+      demonym: 
+    rw:
+      demonym: Rwandan
+    sa:
+      demonym: Saudi
+    sb:
+      demonym: Solomon Island
+    sc:
+      demonym: Seychellois
+    sd:
+      demonym: South Sudanese
+    se:
+      demonym: Swedish
+    sg:
+      demonym: Singaporean
+    sh:
+      demonym: 
+    si:
+      demonym: Slovenian,
+    sj:
+      demonym: 
+    sk:
+      demonym: Slovak
+    sl:
+      demonym: Sierra Leonean
+    sm:
+      demonym: Sammarinese
+    sn:
+      demonym: Senegalese
+    so:
+      demonym: Somali
+    sr:
+      demonym: Surinamese
+    ss:
+      demonym: South Sudanese
+    st:
+      demonym: 
+    sv:
+      demonym: Salvadoran
+    sx:
+      demonym: 
+    sy:
+      demonym: 
+    sz:
+      demonym: Swazi
+    tc:
+      demonym: none
+    td:
+      demonym: Chadian
+    tf:
+      demonym: 
+    tg:
+      demonym: Togolese
+    th:
+      demonym: Thai
+    tj:
+      demonym: Tajikistani
+    tk:
+      demonym: 
+    tl:
+      demonym: 
+    tm:
+      demonym: Turkmen
+    tn:
+      demonym: Tunisian
+    to:
+      demonym: Tongan
+    tr:
+      demonym: Turkish
+    tt:
+      demonym: Trinidadian
+    tv:
+      demonym: Tuvaluan
+    tw:
+      demonym: 
+    tz:
+      demonym: 
+    ua:
+      demonym: Ukrainian
+    ug:
+      demonym: Ugandan
+    um:
+      demonym: 
+    us:
+      demonym: American
+    uy:
+      demonym: Uruguayan
+    uz:
+      demonym: Uzbekistani
+    va:
+      demonym: 
+    vc:
+      demonym: St. Vincentian
+    ve:
+      demonym: 
+    vg:
+      demonym: 
+    vi:
+      demonym: 
+    vn:
+      demonym: 
+    vu:
+      demonym: Ni-Vanuatu
+    wf:
+      demonym: Wallisian
+    ws:
+      demonym: American Samoan
+    ye:
+      demonym: Yemeni
+    yt:
+      demonym: Mahoran
+    za:
+      demonym: South African
+    zm:
+      demonym: Zambian
+    zw:
+      demonym: Zimbabwean
