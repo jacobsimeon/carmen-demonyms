@@ -51,7 +51,7 @@ class FindDemonym
   end
 
   def for_country_name(country_name)
-    clean_country_name = country_name #.gsub(/[^a-zA-z0-9]/, '')
+    clean_country_name = country_name.gsub("'", '\\\'')
     country_link = data.countries.css("a[title*='#{clean_country_name}']").first
 
     if country_link.nil?
