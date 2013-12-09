@@ -30,14 +30,17 @@ class DemonymsData
   end
 
   def data_file(name)
-    File.read(File.join(self.class.data_dir, "#{name}.html"))
+    file_name = File.join(self.class.data_dir, "#{name}.html")
+    file_contents = File.read(file_name)
+
+    Nokogiri::HTML.parse(file_contents)
   end
 
   attr_accessor :primary, :countries, :us_states
   def initialize
-    @primary = Nokogiri::HTML.parse(data_file(:primary))
-    @countries = Nokogiri::HTML.parse(data_file(:countries))
-    @us_states = Nokogiri::HTML.parse(data_file(:us_states))
+    @primary = data_file(:primary)
+    @countries = data_file(:countries)
+    @us_states = data_file(:us_states)
   end
 end
 
