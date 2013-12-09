@@ -1,6 +1,6 @@
 # Carmen::Demonyms
 
-TODO: Write a gem description
+Adds [demonyms][0] to [Carmen][1].
 
 ## Installation
 
@@ -18,7 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require 'carmen/demonyms'
+Carmen::Country.coded("us").demonym # => "American"
+```
 
 ## Contributing
 
@@ -27,3 +30,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+[0]: http://en.wikipedia.org/wiki/Demonym 
+[1]: https://github.com/jim/carmen
+
+
